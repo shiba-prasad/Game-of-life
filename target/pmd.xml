@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="5.1.2" timestamp="2017-08-27T12:15:49.778">
+<file name="/home/edureka/Game-of-life/gameoflife-core/src/main/java/com/wakaleo/gameoflife/domain/Grid.java">
+<violation beginline="85" endline="85" begincolumn="17" endcolumn="40" rule="UselessParentheses" ruleset="Unnecessary" package="com.wakaleo.gameoflife.domain" class="Grid" method="cellIsOutsideBorders" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.1.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="85" endline="85" begincolumn="47" endcolumn="73" rule="UselessParentheses" ruleset="Unnecessary" package="com.wakaleo.gameoflife.domain" class="Grid" method="cellIsOutsideBorders" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.1.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="101" endline="101" begincolumn="17" endcolumn="28" rule="UselessParentheses" ruleset="Unnecessary" package="com.wakaleo.gameoflife.domain" class="Grid" method="cellIsCentralCell" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.1.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="101" endline="101" begincolumn="35" endcolumn="46" rule="UselessParentheses" ruleset="Unnecessary" package="com.wakaleo.gameoflife.domain" class="Grid" method="cellIsCentralCell" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.1.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+</file>
+<file name="/home/edureka/Game-of-life/gameoflife-core/src/main/java/com/wakaleo/gameoflife/domain/Universe.java">
+<violation beginline="56" endline="56" begincolumn="26" endcolumn="44" rule="UselessParentheses" ruleset="Unnecessary" package="com.wakaleo.gameoflife.domain" class="Universe" method="createNextGeneration" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.1.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="56" endline="56" begincolumn="51" endcolumn="69" rule="UselessParentheses" ruleset="Unnecessary" package="com.wakaleo.gameoflife.domain" class="Universe" method="createNextGeneration" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.1.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+</file>
+<file name="/home/edureka/Game-of-life/gameoflife-web/src/main/java/com/wakaleo/gameoflife/webtests/controllers/GameController.java">
+<violation beginline="84" endline="86" begincolumn="22" endcolumn="91" rule="UnusedPrivateMethod" ruleset="Unused Code" package="com.wakaleo.gameoflife.webtests.controllers" class="GameController" method="universeInstanciatedFromClickedCells" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.1.2/rules/java/unusedcode.html#UnusedPrivateMethod" priority="3">
+Avoid unused private methods such as 'universeInstanciatedFromClickedCells(int,int,HttpServletRequest)'.
+</violation>
+<violation beginline="112" endline="112" begincolumn="17" endcolumn="54" rule="UselessParentheses" ruleset="Unnecessary" package="com.wakaleo.gameoflife.webtests.controllers" class="GameController" method="cellWasClickedAt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.1.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="117" endline="117" begincolumn="20" endcolumn="39" rule="UnusedPrivateMethod" ruleset="Unused Code" package="com.wakaleo.gameoflife.webtests.controllers" class="GameController" method="getRandomGenerator" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.1.2/rules/java/unusedcode.html#UnusedPrivateMethod" priority="3">
+Avoid unused private methods such as 'getRandomGenerator()'.
+</violation>
+</file>
+</pmd>

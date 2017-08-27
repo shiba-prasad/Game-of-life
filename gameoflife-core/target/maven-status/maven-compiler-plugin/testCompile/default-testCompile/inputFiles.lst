@@ -1,0 +1,10 @@
+/home/edureka/Game-of-life/gameoflife-core/src/test/java/com/wakaleo/gameoflife/domain/WhenYouCreateAGrid.java
+/home/edureka/Game-of-life/gameoflife-core/src/test/java/com/wakaleo/gameoflife/test/categories/RegressionTests.java
+/home/edureka/Game-of-life/gameoflife-core/src/test/java/com/wakaleo/gameoflife/domain/WhenYouCreateACell.java
+/home/edureka/Game-of-life/gameoflife-core/src/test/java/com/wakaleo/gameoflife/test/categories/IntegrationTests.java
+/home/edureka/Game-of-life/gameoflife-core/src/test/java/com/wakaleo/gameoflife/integration/WhenYouStoreGamesInADatabase.java
+/home/edureka/Game-of-life/gameoflife-core/src/test/java/com/wakaleo/gameoflife/domain/WhenYouReadAGridFromAString.java
+/home/edureka/Game-of-life/gameoflife-core/src/test/java/com/wakaleo/gameoflife/test/categories/SlowTests.java
+/home/edureka/Game-of-life/gameoflife-core/src/test/java/com/wakaleo/gameoflife/domain/WhenYouPrintAGrid.java
+/home/edureka/Game-of-life/gameoflife-core/src/test/java/com/wakaleo/gameoflife/domain/WhenYouPlayTheGameOfLife.java
+/home/edureka/Game-of-life/gameoflife-core/src/test/java/com/wakaleo/gameoflife/domain/WhenYouCreateANewUniverse.java

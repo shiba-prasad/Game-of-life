@@ -1,2 +1,4 @@
+
+This is new line for docker
 This is a test for Project.
 This is Final Test for the project
